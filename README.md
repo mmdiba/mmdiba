@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmdiba
 - 👀 I’m interested in automation.
-- 🌱 I’m currently learning Git.
+- 🌱 I’m currently working on personal projects.
 - 💞️ I’m looking to collaborate on nothing at this moment.
 - 📫 How to reach me: mmdiba@gmail.com
 
